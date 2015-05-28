@@ -56,7 +56,7 @@
 @implementation GlobeViewController
 
 static NSString *APIPrefix     = @"http://api.tiles.mapbox.com/v3";
-static NSString *MapBoxAccount = @"YOUR_ACCOUNT_NAME_HERE";
+static NSString *MapBoxAccount = @"landsurveyors";
 
 - (void)viewDidLoad
 {
